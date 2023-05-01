@@ -61,6 +61,6 @@ Modify the reward function. The reward function is a critical component of the r
 ![image6](images/3_al.png)
 
 ## Reference
-This code gave me a lot of instruction and the Github page is https://github.com/zhangyifengdavid.
+This code gave me a lot of instructions and the Github page is https://github.com/zhangyifengdavid.
 
 
