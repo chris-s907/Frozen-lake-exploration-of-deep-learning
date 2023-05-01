@@ -2,7 +2,9 @@
 The robot intended to go through the frozen lake from one location (top left corner) to another (bottom right corner). However, there are four holes on the ice and if the robot steps into each of them, the task fails. 
 ![image1](images/frozen_lake.png)
 * Reward and action initialization
+
 ![image2](images/act_ini.png)
+
 ![image3](images/rew_ini.png)
 
 ## Dependencies
@@ -28,6 +30,7 @@ The robot intended to go through the frozen lake from one location (top left cor
 
 ## Implement first-visit Monte Carlo without exploring starts
 ![image4](images/1_al.png)
+
 Problems and improvement of finding optimal policy in 10*10 grid
 
 ### Always exploring in a small area in 10000 episodes
@@ -57,5 +60,7 @@ Modify the reward function. The reward function is a critical component of the r
 ## Implement Q-learning
 ![image6](images/3_al.png)
 
+## Reference
+This code gave me a lot of instruction and the Github page is https://github.com/zhangyifengdavid.
 
 
