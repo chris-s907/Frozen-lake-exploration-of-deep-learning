@@ -60,6 +60,13 @@ Modify the reward function. The reward function is a critical component of the r
 ## Implement Q-learning
 ![image6](images/3_al.png)
 
+## Final route
+4*4
+
+![image7](images/4route.png)
+
+10*10
+![image8](images/10route.png)
 ## Reference
 This code gave me a lot of instructions and the Github page is https://github.com/zhangyifengdavid.
 
